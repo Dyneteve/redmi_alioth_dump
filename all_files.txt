@@ -23,6 +23,7 @@ dtbo/16_dtbdump_Qualcomm_Technologies,_Inc._kona_CDP.dtb
 dtbo/17_dtbdump_Qualcomm_Technologies,_Inc._xiaomi_cas.dtb
 dtbo/18_dtbdump_Qualcomm_Technologies,_Inc._kona_MTP_(WS).dtb
 dtbo.img
+.gitignore
 ikconfig
 modem/image/adsp.b00
 modem/image/adsp.b01

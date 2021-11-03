@@ -1,6 +1,6 @@
 [+] Kernel successfully decompressed in-memory (the offsets that follow will be given relative to the decompressed binary)
 [+] Version string: Linux version 4.19.213-Re:Disrupt-ge431da5fb3d7 (build-user@build-host) (Android (7284624, based on r416183b) clang version 12.0.5 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee), LLD 12.0.5 (/buildbot/src/android/llvm-toolchain/out/llvm-project/lld c935d99d7cf2016289302412d708641d52d2f7ee)) #1 SMP PREEMPT Sat Oct 30 17:47:00 UTC 2021
-[+] Guessed architecture: aarch64 successfully in 3.86 seconds
+[+] Guessed architecture: aarch64 successfully in 3.69 seconds
 [+] Found kallsyms_token_table at file offset 0x01eb2300
 [+] Found kallsyms_token_index at file offset 0x01eb2700
 [+] Found kallsyms_markers at file offset 0x01eb1c00
