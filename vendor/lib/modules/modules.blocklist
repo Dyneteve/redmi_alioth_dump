@@ -1,0 +1,6 @@
+# List of sub-device specific modules to not load automatically
+blocklist wlan.ko
+blocklist llcc_perfmon.ko
+blocklist rmnet_shs.ko
+blocklist rmnet_perf.ko
+blocklist incrementalfs.ko
